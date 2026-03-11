@@ -1,2 +1,2 @@
 # RappiCheves_Proyect
-Proyecto de la materia de Sistemas Escalables de tipo Proximity Service
+Front-End de proyecto de la materia de Sistemas Escalables de tipo Proximity Service
